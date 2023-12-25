@@ -1,2 +1,2 @@
-# C-
+# C++
 C++ exam oriented question and solution.
